@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">, I am Viral Sanghavi!
 
 ---
-A software Engineer specialized in Javascript Technologies and Python. Professional experience with the technologies listed in the **toolbox** below.
+A software Engineer specializing in Javascript Technologies and Python. Professional experience with the technologies listed in the **toolbox** below.
 
-I create mostly projects related Web Development and JavaScript, **but** I also work on  other topics like machine learning.
+I create mostly projects related to Web Development and JavaScript, **and** I also work on  other topics like machine learning.
 
 ---
 
